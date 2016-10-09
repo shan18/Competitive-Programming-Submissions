@@ -1,4 +1,4 @@
-# yython 3.4
+# python 3.4
 
 test = int(input())
  

@@ -1,0 +1,9 @@
+# python3
+
+
+inp = lambda:map(int, input().split())
+s, n = inp()
+
+for a, b in sorted(list(inp()) for i in ' ' * n):
+    s = (s + b) * (s > a)
+print('YNEOS'[(s<1)::2])

@@ -1,4 +1,4 @@
-# Online-Judges
+# Competitive-Programming-Submissions
 
 This repository contains the solution to various problems given in:
 1. [Codeforces](https://github.com/codegeek96/Online-Judges/tree/master/Codeforces)
